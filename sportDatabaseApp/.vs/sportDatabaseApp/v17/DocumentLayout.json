@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|c:\\users\\mbuyu\\source\\repos\\sportdatabaseapp\\sportdatabaseapp\\egitmenpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|solutionrelative:sportdatabaseapp\\egitmenpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportdatabaseapp\\egitmenpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|solutionrelative:sportdatabaseapp\\egitmenpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportdatabaseapp\\egitmenbilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|solutionrelative:sportdatabaseapp\\egitmenbilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportdatabaseapp\\egitmenbilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|solutionrelative:sportdatabaseapp\\egitmenbilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportdatabaseapp\\anasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|solutionrelative:sportdatabaseapp\\anasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportdatabaseapp\\m\u00FC\u015Fterig\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|solutionrelative:sportdatabaseapp\\m\u00FC\u015Fterig\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportdatabaseapp\\egitmeng\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|solutionrelative:sportdatabaseapp\\egitmeng\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportdatabaseapp\\m\u00FC\u015Fterig\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D386ECA-7E14-42FA-A1B8-28B9F6D21FD1}|sportDatabaseApp\\sportDatabaseApp.csproj|solutionrelative:sportdatabaseapp\\m\u00FC\u015Fterig\u00FCncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EgitmenPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenPaneli.cs",
+              "RelativeDocumentMoniker": "sportDatabaseApp\\EgitmenPaneli.cs",
+              "ToolTip": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenPaneli.cs",
+              "RelativeToolTip": "sportDatabaseApp\\EgitmenPaneli.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAMwDEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T20:06:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EgitmenPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenPaneli.cs",
+              "RelativeDocumentMoniker": "sportDatabaseApp\\EgitmenPaneli.cs",
+              "ToolTip": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sportDatabaseApp\\EgitmenPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-12T20:06:01.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnasayfaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\AnasayfaForm.cs",
+              "RelativeDocumentMoniker": "sportDatabaseApp\\AnasayfaForm.cs",
+              "ToolTip": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\AnasayfaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sportDatabaseApp\\AnasayfaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-12T15:35:25.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EgitmenBilgi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenBilgi.cs",
+              "RelativeDocumentMoniker": "sportDatabaseApp\\EgitmenBilgi.cs",
+              "ToolTip": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenBilgi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sportDatabaseApp\\EgitmenBilgi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-12T15:34:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EgitmenBilgi.cs",
+              "DocumentMoniker": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenBilgi.cs",
+              "RelativeDocumentMoniker": "sportDatabaseApp\\EgitmenBilgi.cs",
+              "ToolTip": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenBilgi.cs",
+              "RelativeToolTip": "sportDatabaseApp\\EgitmenBilgi.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAewDgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-12T15:34:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EgitmenG\u00FCncelleSil.cs",
+              "DocumentMoniker": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenG\u00FCncelleSil.cs",
+              "RelativeDocumentMoniker": "sportDatabaseApp\\EgitmenG\u00FCncelleSil.cs",
+              "ToolTip": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\EgitmenG\u00FCncelleSil.cs",
+              "RelativeToolTip": "sportDatabaseApp\\EgitmenG\u00FCncelleSil.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-12T15:34:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "M\u00FC\u015FteriG\u00FCncelleSil.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\M\u00FC\u015FteriG\u00FCncelleSil.cs",
+              "RelativeDocumentMoniker": "sportDatabaseApp\\M\u00FC\u015FteriG\u00FCncelleSil.cs",
+              "ToolTip": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\M\u00FC\u015FteriG\u00FCncelleSil.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sportDatabaseApp\\M\u00FC\u015FteriG\u00FCncelleSil.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-12T15:34:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M\u00FC\u015FteriG\u00FCncelleSil.cs",
+              "DocumentMoniker": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\M\u00FC\u015FteriG\u00FCncelleSil.cs",
+              "RelativeDocumentMoniker": "sportDatabaseApp\\M\u00FC\u015FteriG\u00FCncelleSil.cs",
+              "ToolTip": "C:\\Users\\mbuyu\\source\\repos\\sportDatabaseApp\\sportDatabaseApp\\M\u00FC\u015FteriG\u00FCncelleSil.cs",
+              "RelativeToolTip": "sportDatabaseApp\\M\u00FC\u015FteriG\u00FCncelleSil.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAwJQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-12T15:34:59.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
