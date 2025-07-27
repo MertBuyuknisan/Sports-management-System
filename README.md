@@ -44,11 +44,15 @@ Platform: .NET Framework
 
 <img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/d57d7537-cdf6-4f15-881b-1542da887025" />
 
+
 <img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/53c46835-4b21-4ad6-96f6-137ba5380ef6" />
+
 
 <img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/e92b889c-1b2d-4dd7-8f08-95cbc4c202ee" />
 
+
 <img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/1579da1f-3675-4e9e-8862-7633cf4c6c73" />
+
 
 <img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/d89030b7-a70e-4355-a6b6-c128fe5aafee" />
 
